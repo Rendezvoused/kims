@@ -89,7 +89,7 @@ width: 220px; height: 20px; position: absolute; bottom: 10px; color: #4C474B; fo
 }
 
 .song {
-width: 200px; height: 60px; background: #f8fefe; border: 1px solid #e5e5e5; position: absolute; left: 680px; top: 230px; border-radius: 15px; box-shadow: 0px 0px 5px rgba(0,0,0,0.04); transition: 0.3s;
+width: 200px; height: 60px; background: #f8fefe; border: 1px solid #e5e5e5; position: absolute; left: 690px; top: 325px; border-radius: 15px; box-shadow: 0px 0px 5px rgba(0,0,0,0.04); transition: 0.3s;
 }
 
 .song:hover {
@@ -112,7 +112,7 @@ font-family: poppins; font-size: 10px; color: #4C474B; text-transform: uppercase
 }
 
 .igprof {
-width: 200px; height: 160px; background: #fefefe; border: 1px solid #e5e5e5; position: absolute; bottom: 90px;left:380px; border-radius: 20px; box-shadow: 0px 0px 5px rgba(0,0,0,0.04); transition: 0.3s;
+width: 200px; height: 160px; background: #fefefe; border: 1px solid #e5e5e5; position: absolute; bottom: 180px;left:350px; border-radius: 20px; box-shadow: 0px 0px 5px rgba(0,0,0,0.04); transition: 0.3s;
 }
 
 .igprof:hover {
